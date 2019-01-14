@@ -1,4 +1,4 @@
-# How to get started with QIIME2: a wiki.
+# A wicked QIIME2 wiki
 
 
 There's a million and one tutorials out there for how to use QIIME2. But it's too hard for me to find one that fits my needs. So I'm taking Gandhi's advice and being the change I wish to see in the world. 
