@@ -7,4 +7,4 @@ This an Alaina-friendly guide to QIIME2 in the form of a wiki with some conditio
 - sequences are already demultiplexed
 - primers/adapters have already been removed
 
-You can find he wiki here: https://github.com/scubalaina/plants_lol/wiki
+You can find the wiki here: https://github.com/scubalaina/plants_lol/wiki
