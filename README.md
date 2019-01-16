@@ -13,5 +13,7 @@ You can find the wiki here: https://github.com/scubalaina/plants_lol/wiki/QIIME2
 
 # 2. A wild R wiki
 
-Again, there's a gazillion and one places to find R tutorials for analyzing OTU count tables for microbiome projects. But here's how I wish they were organized:
+Again, there's a gazillion and one places to find R tutorials for analyzing OTU count tables for microbiome projects. 
+
+But here's how I wish they were organized:
 https://github.com/scubalaina/plants_lol/wiki/Microbial-community-stats:-R-in-R-Studio
