@@ -1,6 +1,6 @@
 What you'll find here:
 
-# 1. A wicked QIIME2 wiki
+# 1. A wik-ed QIIME2 wiki
 
 
 There's a million and one tutorials out there for how to use QIIME2. But it's too hard for me to find one that fits my needs. So I'm taking Gandhi's advice and being the change I wish to see in the world. 
@@ -11,7 +11,7 @@ This an Alaina-friendly guide to QIIME2 in the form of a wiki with some conditio
 
 You can find the wiki here: https://github.com/scubalaina/plants_lol/wiki/QIIME2-Guide-for-Dumber-Dummies
 
-# 2. A wild R wiki
+# 2. An R wiki
 
 Again, there's a gazillion and one places to find R tutorials for analyzing OTU count tables for microbiome projects. 
 
